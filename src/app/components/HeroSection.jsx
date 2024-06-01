@@ -37,8 +37,10 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam,
-            voluptuous.
+          I am a second year Game Dev working at UC for my Bachelors Degree in Digital Screen. I want to build one of the next big VR titles, but not in a triple A style.
+          I have been building games for over 5 years and have only recently pivoted to the VR space.
+          I have created 2 titles that I am proud of, and have a third in the works.
+          I moved to the VR space as it is a growing industry and the endless possibilities are exciting to explore.
           </p>
           <div>
             <Link
