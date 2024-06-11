@@ -37,7 +37,8 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-          I am a second year Game Dev working at UC for my Bachelors Degree in Digital Screen. I want to build one of the next big VR titles, but not in a triple A style.
+          I am a second year Game Dev working at UC for my Bachelors Degree in Digital Screen. 
+          I want to build one of the next big VR titles, but not in a triple A style.
           I have been building games for over 5 years and have only recently pivoted to the VR space.
           I have created 2 titles that I am proud of, and have a third in the works.
           I moved to the VR space as it is a growing industry and the endless possibilities are exciting to explore.
@@ -54,8 +55,9 @@ const HeroSection = () => {
               className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-800 text-white mt-3"
             >
               <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
-                Downloadable CV
-              </span>
+                Downloadable CV 
+              </span> 
+              
             </Link>
           </div>
         </motion.div>
