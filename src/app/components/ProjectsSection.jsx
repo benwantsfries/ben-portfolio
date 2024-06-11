@@ -29,8 +29,7 @@ const projectsData = [
     description: "A Comedic Dating Simulator - Group Project",
     image: "/images/projects/3.png",
     tag: ["All", "Game Projects"],
-    gitUrl: "/",
-    previewUrl: "/",
+    previewUrl: "https://benwantsfries.itch.io/dictatorships",
   },
   {
     id: 4,
@@ -38,7 +37,7 @@ const projectsData = [
     description: "The trailer I put together for our game",
     image: "/images/projects/4.png",
     tag: ["All", "Editing Projects"],
-    gitUrl: "/",
+    gitUrl: "https://youtu.be/00WpUi4ct7o?si=729aqNgeMkia4xNh",
     previewUrl: "/",
   },
   {
@@ -47,7 +46,7 @@ const projectsData = [
     description: "A place where I practice video editing",
     image: "/images/projects/5.png",
     tag: ["All", "Editing Projects"],
-    gitUrl: "/",
+    gitUrl: "https://www.youtube.com/@DuckyDota/videos",
     previewUrl: "/",
   },
   {
