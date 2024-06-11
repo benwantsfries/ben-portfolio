@@ -29,6 +29,7 @@ const projectsData = [
     description: "A Comedic Dating Simulator - Group Project",
     image: "/images/projects/3.png",
     tag: ["All", "Game Projects"],
+    gitUrl: "https://benwantsfries.itch.io/dictatorships",
     previewUrl: "https://benwantsfries.itch.io/dictatorships",
   },
   {
