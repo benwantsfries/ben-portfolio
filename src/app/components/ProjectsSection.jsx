@@ -51,7 +51,7 @@ const projectsData = [
     description: "My next big thing!",
     image: "/images/projects/6.png",
     tag: ["All", "Editing Projects", "Game Projects"],
-    previewUrl: "/",
+    previewUrl: "https://benji-portfolio.vercel.app/",
   },
 ];
 
