@@ -50,15 +50,15 @@ const projectsData = [
     gitUrl: "/",
     previewUrl: "/",
   },
-  //{
-   // id: 6,
-   // title: "Full-stack Roadmap",
-   // description: "Project 5 description",
-   // image: "/images/projects/6.png",
-   // tag: ["All", "Web"],
-   // gitUrl: "/",
-   // previewUrl: "/",
-  //},
+  {
+    id: 6,
+    title: "Coming Soon",
+    description: "My next big thing!",
+    image: "/images/projects/6.png",
+    tag: ["All", "Editing Projects", "Game Projects"],
+    gitUrl: "/",
+    previewUrl: "/",
+  },
 ];
 
 const ProjectsSection = () => {
