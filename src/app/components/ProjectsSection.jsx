@@ -11,7 +11,6 @@ const projectsData = [
     description: "A Rythm Game with a Lumberjack Theme - Solo Project",
     image: "/images/projects/1.png",
     tag: ["All", "Game Projects"],
-    gitUrl: "/",
     previewUrl: "/",
   },
   {
@@ -20,7 +19,6 @@ const projectsData = [
     description: "A Vr Escape Room experience - Duo Project",
     image: "/images/projects/2.png",
     tag: ["All", "Game Projects"],
-    gitUrl: "/",
     previewUrl: "/",
   },
   {
@@ -29,7 +27,6 @@ const projectsData = [
     description: "A Comedic Dating Simulator - Group Project",
     image: "/images/projects/3.png",
     tag: ["All", "Game Projects"],
-    gitUrl: "https://benwantsfries.itch.io/dictatorships",
     previewUrl: "https://benwantsfries.itch.io/dictatorships",
   },
   {
@@ -38,8 +35,7 @@ const projectsData = [
     description: "The trailer I put together for our game",
     image: "/images/projects/4.png",
     tag: ["All", "Editing Projects"],
-    gitUrl: "https://youtu.be/00WpUi4ct7o?si=729aqNgeMkia4xNh",
-    previewUrl: "/",
+    previewUrl: "https://youtu.be/00WpUi4ct7o?si=729aqNgeMkia4xNh",
   },
   {
     id: 5,
@@ -47,8 +43,7 @@ const projectsData = [
     description: "A place where I practice video editing",
     image: "/images/projects/5.png",
     tag: ["All", "Editing Projects"],
-    gitUrl: "https://www.youtube.com/@DuckyDota/videos",
-    previewUrl: "/",
+    previewUrl: "https://www.youtube.com/@DuckyDota/videos",
   },
   {
     id: 6,
@@ -56,7 +51,6 @@ const projectsData = [
     description: "My next big thing!",
     image: "/images/projects/6.png",
     tag: ["All", "Editing Projects", "Game Projects"],
-    gitUrl: "/",
     previewUrl: "/",
   },
 ];
