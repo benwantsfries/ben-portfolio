@@ -19,7 +19,7 @@ const projectsData = [
     description: "A Vr Escape Room experience - Duo Project",
     image: "/images/projects/2.png",
     tag: ["All", "Game Projects"],
-    previewUrl: "/",
+    previewUrl: "https://benwantsfries.itch.io/twff25",
   },
   {
     id: 3,
