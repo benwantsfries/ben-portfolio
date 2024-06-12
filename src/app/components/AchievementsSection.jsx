@@ -14,7 +14,7 @@ const achievementsList = [
     prefix: "~",
     metric: "Projects",
     value: "4",
-    //postfix: "+",
+    postfix: "+",
   },
   //{
    // prefix: "~",
